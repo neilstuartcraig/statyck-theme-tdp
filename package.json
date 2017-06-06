@@ -1,0 +1,25 @@
+{
+  "name": "statyck-theme-tdp",
+  "version": "1.0.0",
+  "description": "thedotproduct.org theme for Statyck (https://github.com/neilstuartcraig/statyck)",
+  "scripts": {
+    "postinstall": "scripts/post-install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilstuartcraig/statyck-theme-tdp.git"
+  },
+  "keywords": [
+    "statyck",
+    "theme"
+  ],
+  "author": "Neil Craig <neil.craig@thedotproduct.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neilstuartcraig/statyck-theme-tdp/issues"
+  },
+  "homepage": "https://github.com/neilstuartcraig/statyck-theme-tdp#readme",
+  "dependencies": {
+    "fs-extra": "^2.1.2"
+  }
+}

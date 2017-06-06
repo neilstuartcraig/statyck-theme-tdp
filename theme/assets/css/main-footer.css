@@ -1,0 +1,13 @@
+.main_footer
+{
+    flex: 1;
+    display: flex;
+    color: #999;
+    padding: 0.5rem 1.5rem;
+    font-size: 0.9em;
+}
+
+.main_footer a
+{
+    margin-left: 0.25em;
+}
