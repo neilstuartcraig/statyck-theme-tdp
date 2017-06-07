@@ -9,8 +9,15 @@ a
 {
     text-decoration: none;
     color: #37464f;
+    border-bottom: 1px dashed #494949;
 }
 p
 {
     margin-bottom: 1em;
+}
+ul
+{
+    margin-left: 1.5em;
+    margin-bottom: 1em;
+    list-style-type: disc;
 }

@@ -68,6 +68,8 @@
     display: flex;
     flex-direction: row;
     align-items: flex-end;
+    list-style-type: none;
+    margin: 0;
 }
 .main_header_etc_nav_pages li, .main_header_etc_nav_social li
 {
