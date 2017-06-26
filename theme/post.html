@@ -51,13 +51,16 @@
             </div>
         </header>
         <main>
-          <section class="post_content">
-              {{{content.HTML}}}
-          </section>
-          <div class="post_dates">
-              Created: {{content.metadata.dateCreated.string}}<br />
-              Last modified: {{content.metadata.dateModified.string}}<br />
-          </div>
+            <section class="post_content">
+                <h1>
+                    {{content.title}}
+                </h1>
+                {{{content.HTML}}}
+            </section>
+            <div class="post_dates">
+                Created: {{content.metadata.dateCreated.string}}<br />
+                Last modified: {{content.metadata.dateModified.string}}<br />
+            </div>
         </main>
         <footer class="main_footer">
             This website was built using <a href="https://github.com/neilstuartcraig/statyck">Statyck</a>

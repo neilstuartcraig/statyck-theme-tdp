@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.3.0
+* Add: Heading to posts
+
 ## v1.2.0
 * Add: styles for `<blockquote>` elements
 
