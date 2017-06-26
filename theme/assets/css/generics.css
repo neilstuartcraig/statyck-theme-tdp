@@ -30,3 +30,10 @@ pre
     padding: 0.5em;
     overflow: auto;
 }
+blockquote
+{
+    font-style: italic;
+    border-left: 3px solid #999;
+    padding-left: 0.5em;
+    margin-bottom: 1em;
+}

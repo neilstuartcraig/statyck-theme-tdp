@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.2.0
+* Add: styles for `<blockquote>` elements
+
 ## v1.1.0
 * Add: styles for `<pre>` elements
 
