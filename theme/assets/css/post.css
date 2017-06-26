@@ -36,5 +36,6 @@
 }
 .post_content img
 {
+    display:block; 
     max-width: 100%;
 }

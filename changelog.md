@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.3.1
+* Fix: Images need to be `display: block`
+
 ## v1.3.0
 * Add: Heading to posts
 
