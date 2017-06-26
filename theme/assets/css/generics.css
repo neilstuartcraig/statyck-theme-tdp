@@ -21,3 +21,12 @@ ul
     margin-bottom: 1em;
     list-style-type: disc;
 }
+pre
+{
+    font-family: monospace;
+    font-size: 1.05em;
+    margin-bottom: 1em;
+    background: #eee;
+    padding: 0.5em;
+    overflow: auto;
+}
