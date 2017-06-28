@@ -1,7 +1,10 @@
 # Changelog for statyck-theme-default
 
+## v1.3.3
+* Fix: Missing styling on tables
+
 ## v1.3.2
-* Fix: Missing margin on index paginatino next/previous links
+* Fix: Missing margin on index pagination next/previous links
 
 ## v1.3.1
 * Fix: Images need to be `display: block`
