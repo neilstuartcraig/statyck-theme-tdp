@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.3.6
+* Fix: outdated deps
+
 ## v1.3.5
 * Fix: Missing styling for `<code>`
 
