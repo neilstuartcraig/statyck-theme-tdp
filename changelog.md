@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.3.7
+* Fix: Monospace fonts in `<code>` are too small
+
 ## v1.3.6
 * Fix: outdated deps
 
