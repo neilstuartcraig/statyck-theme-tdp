@@ -59,3 +59,8 @@ td.subtitle
     border-bottom: 1px solid #ddd;
     padding-top: 0.5em;
 }
+
+code 
+{
+    font-family: monospace;
+}

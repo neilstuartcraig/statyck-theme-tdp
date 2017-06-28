@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.3.5
+* Fix: Missing styling for `<code>`
+
 ## v1.3.4
 * Fix: Missing margin on tables (bottom)
 
