@@ -33,6 +33,7 @@
 .index_pagination a
 {
     color: #999;
+    margin-right: 0.5em;
 }
 .index_pagination_num
 {
