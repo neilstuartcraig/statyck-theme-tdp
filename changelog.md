@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.3.4
+* Fix: Missing margin on tables (bottom)
+
 ## v1.3.3
 * Fix: Missing styling on tables
 
