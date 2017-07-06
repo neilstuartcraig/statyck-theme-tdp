@@ -1,5 +1,11 @@
 # Changelog for statyck-theme-default
 
+## v1.3.9
+* Fix: Missing license
+
+## v1.3.8
+* Fix: Posts indexes - post item links are full width
+
 ## v1.3.7
 * Fix: Monospace fonts in `<code>` are too small
 
