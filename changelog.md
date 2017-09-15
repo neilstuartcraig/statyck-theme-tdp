@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.3.10
+* Fix: Mangled layout in footer on narrow viewports
+
 ## v1.3.9
 * Fix: Missing license
 
