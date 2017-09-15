@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.3.12
+* Update dep: `fs-extra`
+
 ## v1.3.11
 * Fix: Add missing `.gitignore' file
 
