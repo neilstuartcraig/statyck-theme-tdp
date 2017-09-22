@@ -10,6 +10,7 @@
         "createAbsoluteHRefs": false,
         "social":
         {
+            "twitterHandle": "@tdp_org",
             "twitterURL": "https://www.twitter.com/tdp_org",
             "githubURL": "https://www.github.com/neilstuartcraig"
         }

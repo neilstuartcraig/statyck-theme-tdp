@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.4.0
+* Add: Twitter cards
+
 ## v1.3.12
 * Update dep: `fs-extra`
 
