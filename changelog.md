@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.5.0
+* Add: Twitter card image
+
 ## v1.4.1
 * Fix: Missing Twitter card on posts index template
 
