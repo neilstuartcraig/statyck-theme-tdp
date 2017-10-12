@@ -1,5 +1,8 @@
 # Changelog for statyck-theme-default
 
+## v1.5.1
+* Fix: site title and content title need to be swapped in the twitter cards
+
 ## v1.5.0
 * Add: Twitter card image
 
